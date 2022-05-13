@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/My-Pocket/static/js/main.dfcb51c1.chunk.js",
+    "main.js.map": "/My-Pocket/static/js/main.dfcb51c1.chunk.js.map",
+    "runtime-main.js": "/My-Pocket/static/js/runtime-main.1ef558b3.js",
+    "runtime-main.js.map": "/My-Pocket/static/js/runtime-main.1ef558b3.js.map",
+    "static/js/2.5f3b39fc.chunk.js": "/My-Pocket/static/js/2.5f3b39fc.chunk.js",
+    "static/js/2.5f3b39fc.chunk.js.map": "/My-Pocket/static/js/2.5f3b39fc.chunk.js.map",
+    "index.html": "/My-Pocket/index.html",
+    "precache-manifest.1c6f92ad54298f3782fc4615528a8c8e.js": "/My-Pocket/precache-manifest.1c6f92ad54298f3782fc4615528a8c8e.js",
+    "service-worker.js": "/My-Pocket/service-worker.js",
+    "static/js/2.5f3b39fc.chunk.js.LICENSE.txt": "/My-Pocket/static/js/2.5f3b39fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ef558b3.js",
+    "static/js/2.5f3b39fc.chunk.js",
+    "static/js/main.dfcb51c1.chunk.js"
+  ]
+}
