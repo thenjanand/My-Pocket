@@ -4,6 +4,8 @@ This is a Google Keep inspired, Notes keeping app. The best part? <b>All the not
 
 So, no more worrying about giving access to your secrets to 3rd-party companies.
 
+Live demo - https://njanand-xenon.github.io/My-Pocket/
+
 Built in <b>React.js</b> with ❤️
 
 ````
